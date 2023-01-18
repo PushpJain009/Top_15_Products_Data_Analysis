@@ -3,11 +3,11 @@ Product Sales Tableau Dashboard
  
 In this project, I have found the trends and data for different countries. Showed the insights about profit, sales, over different countries.
 Created the dashboard which should include the following in the insights-
-1.Shared top10 product by sales.
+1.Shared Top 15 product by sales.
 2.Shared overview on Sales and profit.
 3.Under performing product and category.
 
-[Top-15-Product-Sales Dashboard](https://public.tableau.com/app/profile/sajal.jain4190/viz/Top10ProductSalesDashboardColoured/Dashboard1)
+[Top-15-Product-Sales Dashboard](https://public.tableau.com/app/profile/pushp.jain/viz/Top15ProductDataAnalysis/Dashboard1)
 
 ![Top15ProductSales](Top%2015%20Product%20Dashboard.png)
 
